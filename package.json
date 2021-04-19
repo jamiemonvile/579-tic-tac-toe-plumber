@@ -1,0 +1,17 @@
+{
+  "name": "tic-tac-toe-plumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "plumber-client": "0.0.4",
+    "webpack": "^5.33.2",
+    "webpack-cli": "^4.6.0"
+  }
+}
